@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337375220982",
+    "project_id": "pali-358e0",
+    "storage_bucket": "pali-358e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337375220982:android:ff5d3a0ed684e070fbc8d7",
+        "android_client_info": {
+          "package_name": "com.trobot.pali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7W0rv1VCkaFcrnOKqgBRSDIaveQdoSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

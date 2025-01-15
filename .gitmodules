@@ -1,0 +1,9 @@
+[submodule "llama.cpp"]
+	path = third-party/llama.cpp
+	url = https://github.com/samkoesnadi/llama.cpp
+    branch = feat/qwen2vl-modified
+
+[submodule "ui/pali/native/llama.cpp"]
+	path = ui/pali/native/llama.cpp
+	url = https://github.com/samkoesnadi/llama.cpp
+    branch = feat/qwen2vl-modified
